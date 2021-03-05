@@ -1,6 +1,6 @@
 {
   "name": "serverless-s3obj",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "resolve object variables in s3 according to suffixes (yml, json)",
   "main": "dist/index.js",
   "author": "Lance Woodson",

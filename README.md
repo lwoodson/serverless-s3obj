@@ -167,6 +167,16 @@ that extend that scope will most likely not be accepted.  I have no intention or
 inclination to maintain something of a larger scope.  Feel free to fork and take
 in different directions if your needs require it.
 
+## Releasing
+
+```
+npm login
+# increment version in package.json
+yarn build
+npm publish
+```
+
+
 ## TODO
 This is in a very early stage, and for this to be a properly reliable open
 source tool, the following needs to happen:
